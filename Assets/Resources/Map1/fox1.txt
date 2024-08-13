@@ -1,13 +1,8 @@
 id	character	content
-1	Player	Chào bạn, cho tôi hỏi đường tới rừng XX
-2	Fox	Bạn muốn tới đó làm gì?
-3	Player	Tôi muốn vào đó hái tý thuốc thôi
-4	Fox	Tôi khuyên bạn không nên tới đó lúc này
-5	Player	Vì sao vậy?
-6	Fox	Hiện tại nơi đó rất nguy hiểm
-7	Fox	Có một con YY mới xuất hiện gần đây
-8	Fox	Nó đã bắt 1 số người …
-9	Player	Yên tâm đi, tôi chỉ đi loanh quanh bên ngoài thôi
-10	Player	Với lại tôi mạnh lắm
-11	Fox	Nếu vậy, hãy đi đánh 10 con ABC, mang XYZ về đây để chứng minh
-12	Fox	Thì tôi sẽ chỉ đường cho
+1	Player	What is it, Chief? I’m ready to help.
+2	Fox	To the East, deep within the Forbidden Forest, lies an ancient temple long forgotten. It is said that within this temple lies a powerful artifact – the Time Gem. This artifact may be our only hope to stop the darkness spreading across the kingdom.
+3	Player	The Time Gem... It sounds powerful. But why the urgency?
+4	Fox	The seers of the village have foreseen a terrible omen. They say that if we do not retrieve the Gem before the sun sets three times, the darkness will overtake the temple, and its power will fall into the hands of our enemy, the Dark Lord.
+5	Player	I understand. So my mission is to find and bring back the Time Gem before the sun sets three times, correct?
+6	Fox	Yes. But be cautious, the Forbidden Forest is not a place where many return from. There are creatures there you’ve never encountered, and deadly traps that could appear anywhere. You’ll need all your courage and wit.
+7	Fox	Good luck, brave warrior. The kingdom is counting on you. Return safely.
